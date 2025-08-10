@@ -1,8 +1,9 @@
-# pxsnap
+# pxsnap ![pxsnap Logo](https://img.shields.io/badge/pxsnap-v1.0-blue?style=for-the-badge&logo=python&logoColor=yellow)
 
-A lightweight professional-grade screenshot utility for Windows that combines simplicity with powerful features. Designed for developers and power users who need a reliable tool for capturing screenshots with minimal overhead. 
+A lightweight professional-grade screenshot utility for Windows that combines simplicity with powerful features. Designed for developers and power users who need a reliable tool for capturing screenshots with minimal overhead. <br>
 
-![pxsnap Logo](https://img.shields.io/badge/pxsnap-v1.0-blue?style=for-the-badge&logo=python&logoColor=yellow)
+<img width="578" height="678" alt="pxsnap" src="https://github.com/user-attachments/assets/a03dda82-e96b-44f5-9683-c1a8a2dd8cb4" /><br>
+
 
 ## Features
 
