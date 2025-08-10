@@ -1,0 +1,4 @@
+pyautogui
+tkinter
+Pillow
+keyboard

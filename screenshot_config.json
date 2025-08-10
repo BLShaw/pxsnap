@@ -1,0 +1,11 @@
+{
+    "save_directory": "C:\\Users\\Administrator\\Pictures",
+    "file_prefix": "screenshot",
+    "file_format": "png",
+    "hotkey_fullscreen": "print_screen",
+    "hotkey_region": "ctrl+print_screen",
+    "show_preview": true,
+    "auto_open_folder": false,
+    "window_geometry": "580x650+100+100",
+    "timestamp_format": "%Y%m%d_%H%M%S"
+}
